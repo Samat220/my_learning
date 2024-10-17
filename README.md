@@ -9,6 +9,7 @@ A running lof of things I'm learning about ML and AI to build strong core softwa
 
 |Resource|Progress|
 |---|---|
+|[Coursera: Programming in Python, taught by Meta](https://www.coursera.org/learn/programming-in-python?specialization=meta-back-end-developer)|✅|
 |[Datacamp: Writing Efficient Python Code](https://www.datacamp.com/courses/writing-efficient-python-code)|⬜|
 |[Datacamp: Writing Functions in Python](https://www.datacamp.com/courses/writing-functions-in-python)|⬜|
 |[Datacamp: Object-Oriented Programming in Python](https://www.datacamp.com/courses/object-oriented-programming-in-python)|⬜|
@@ -41,6 +42,7 @@ A running lof of things I'm learning about ML and AI to build strong core softwa
 |[Udacity: Intro to Data Structures and Algorithms](https://www.udacity.com/course/technical-interview--ud513)|⬜|
 
 
+
 ### Linux & Command Line
 
 |Resource|Progress|
@@ -57,10 +59,27 @@ A running lof of things I'm learning about ML and AI to build strong core softwa
 
 |Resource|Progress|
 |---|---|
+|[Coursera: Version Control by Meta](https://www.coursera.org/learn/introduction-to-version-control?specialization=meta-back-end-developer)|✅|
 |[Udacity: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)|⬜|
 |[Datacamp: Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)|⬜|
 |[Udacity: GitHub & Collaboration](https://www.udacity.com/course/github-collaboration--ud456)|⬜|
 |[Udacity: How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)|⬜|
+
+
+### Backend Engineering
+
+|Resource|Progress|
+|---|---|
+|[Meta Back-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-back-end-developer)|✅|
+|[Coursera: Introduction to Back-End Development](https://www.coursera.org/learn/introduction-to-back-end-development?specialization=meta-back-end-developer)|✅|
+|[Meta Back-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-back-end-developer)|✅|
+|[Udacity: Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)|⬜|
+|[Udacity: HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)|⬜|
+|[Udacity: Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)|⬜|
+|[Udacity: Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)|⬜|
+|[Datacamp: Introduction to APIs in Python](https://www.datacamp.com/courses/introduction-to-apis-in-python)|⬜|
+|[Udacity: Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)|⬜|
+
 
 ### Databases
 
@@ -82,16 +101,6 @@ A running lof of things I'm learning about ML and AI to build strong core softwa
 |[Datacamp: NoSQL Concepts](https://www.datacamp.com/courses/nosql-concepts)|⬜|
 |[Datacamp: Introduction to MongoDB in Python](https://www.datacamp.com/courses/introduction-to-using-mongodb-for-data-science-with-python)|⬜|
 
-### Backend Engineering
-
-|Resource|Progress|
-|---|---|
-|[Udacity: Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)|⬜|
-|[Udacity: HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)|⬜|
-|[Udacity: Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)|⬜|
-|[Udacity: Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)|⬜|
-|[Datacamp: Introduction to APIs in Python](https://www.datacamp.com/courses/introduction-to-apis-in-python)|⬜|
-|[Udacity: Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)|⬜|
 
 ### Production System Design
 
