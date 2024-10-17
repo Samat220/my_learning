@@ -1,4 +1,4 @@
-# learning
+# My learning
 A running lof of things I'm learning about ML and AI to build strong core software engineering skills while also expanding my knowledge of [adjacent technologies](http://www.effectiveengineer.com/blog/master-adjacent-disciplines) a little bit [everyday](https://jamesclear.com/continuous-improvement).
 
 **Updated**: Once a month | **Current** **Focus**: Machine Learning Fundamentals
