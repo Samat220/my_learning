@@ -72,7 +72,8 @@ A running lof of things I'm learning about ML and AI to build strong core softwa
 |---|---|
 |[Meta Back-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-back-end-developer)|✅|
 |[Coursera: Introduction to Back-End Development](https://www.coursera.org/learn/introduction-to-back-end-development?specialization=meta-back-end-developer)|✅|
-|[Meta Back-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-back-end-developer)|✅|
+|[Coursera: APIs, taught by Meta](https://www.coursera.org/learn/apis?specialization=meta-back-end-developer)|✅|
+|[Meta Back-End Developer Capstone Project](https://github.com/Samat220/Little-Lemon-API)|✅|
 |[Udacity: Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)|⬜|
 |[Udacity: HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)|⬜|
 |[Udacity: Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)|⬜|
@@ -85,6 +86,7 @@ A running lof of things I'm learning about ML and AI to build strong core softwa
 
 |Resource|Progress|
 |---|---|
+|[Coursera: Introduction to Databases for Back-End Development by Meta](https://www.coursera.org/learn/intro-to-databases-back-end-development?specialization=meta-back-end-developer)|✅|
 |[Udacity: Intro to relational database](https://www.udacity.com/course/intro-to-relational-databases--ud197)|⬜|
 |[Udacity: Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)|⬜|
 |[Datacamp: Database Design](https://www.datacamp.com/courses/database-design)|⬜|
@@ -135,6 +137,7 @@ A running lof of things I'm learning about ML and AI to build strong core softwa
 |[Udacity: Linear Algebra Refresher](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)|⬜|
 |[Youtube: Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)|⬜|
 
+
 ### Basic Frontend Knowledge
 <hr>
 
@@ -174,6 +177,10 @@ A running lof of things I'm learning about ML and AI to build strong core softwa
 |[Codecademy: Jquery Track](https://www.codecademy.com/learn/learn-jquery)|⬜|
 |[Pluralsight: Using The Chrome Developer Tools](https://www.pluralsight.com/courses/chrome-developer-tools)|⬜|
 
+### Full Stack
+|Resource|Progress|
+|---|---|
+|[Coursera: The Full Stack, taught by Meta](https://www.coursera.org/learn/the-full-stack?specialization=meta-back-end-developer)|✅|
 
 ## Specialized Topics
 <hr>
@@ -410,6 +417,7 @@ A running lof of things I'm learning about ML and AI to build strong core softwa
 
 |Resource|Progress|
 |---|---|
+|[Coursera: Django Web Framework by Meta](https://www.coursera.org/learn/django-web-framework?specialization=meta-back-end-developer)|✅|
 |[Article: Django, HTMX and Alpine.js: Modern websites, JavaScript optional](https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/htmx-alpine/)|⬜|
 
 
