@@ -10,6 +10,7 @@ A running lof of things I'm learning about ML and AI to build strong core softwa
 |Resource|Progress|
 |---|---|
 |[Coursera: Programming in Python, taught by Meta](https://www.coursera.org/learn/programming-in-python?specialization=meta-back-end-developer)|✅|
+|[Udemy: Python for Data Science and Machine Learning](https://www.udemy.com/certificate/UC-e8f79e7d-abfb-43a7-9b95-99d4e2806825/)|✅|
 |[Datacamp: Writing Efficient Python Code](https://www.datacamp.com/courses/writing-efficient-python-code)|⬜|
 |[Datacamp: Writing Functions in Python](https://www.datacamp.com/courses/writing-functions-in-python)|⬜|
 |[Datacamp: Object-Oriented Programming in Python](https://www.datacamp.com/courses/object-oriented-programming-in-python)|⬜|
@@ -38,8 +39,9 @@ A running lof of things I'm learning about ML and AI to build strong core softwa
 |---|---|
 |[Book: Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)|⬜|
 |[Book: The Tech Resume Inside Out](https://thetechresume.com)|⬜|
-|[Neetcode: Algorithms and Data Structures for Beginners](https://neetcode.io/courses/dsa-for-beginners/0)|⬜|
-|[Udacity: Intro to Data Structures and Algorithms](https://www.udacity.com/course/technical-interview--ud513)|⬜|
+|[Udemy: Data Structures and Algorithms](https://www.udemy.com/certificate/UC-9721830b-9b91-4d95-a692-37ab16c441b0/)|✅|
+|[Neetcode: Algorithms and Data Structures for Beginners](https://neetcode.io/courses/dsa-for-beginners/0)|✅|
+|[Udacity: Intro to Data Structures and Algorithms](https://www.udacity.com/course/technical-interview--ud513)|✅|
 
 ### Data Analytics
 
@@ -53,6 +55,7 @@ A running lof of things I'm learning about ML and AI to build strong core softwa
 |[Google Data Analytics Course: Analyze Data to Answer Questions](https://www.coursera.org/learn/analyze-data?specialization=google-data-analytics)|✅| 
 |[Google Data Analytics Course: Share Data Through the Art of Visualization](https://www.coursera.org/learn/visualize-data?specialization=google-data-analytics)|✅| 
 |[Google Data Analytics Course: Data Analysis with R Programming](https://www.coursera.org/learn/data-analysis-r?specialization=google-data-analytics)|✅|
+|[Codecademy: Analyze Financial Data with Python](https://www.codecademy.com/profiles/Ramazan_119)|✅|
 
 ### Linux & Command Line
 
@@ -156,7 +159,7 @@ A running lof of things I'm learning about ML and AI to build strong core softwa
 
 |Resource|Progress|
 |---|---|
-|[Codecademy: Learn HTML](https://www.codecademy.com/learn/learn-html)|⬜|
+|[Codecademy: Learn HTML](https://www.codecademy.com/learn/learn-html)|✅|
 |[Codecademy: Make a website](https://www.codecademy.com/en/courses/make-a-website)|⬜|
 |[Article: Alternative Text](https://webaim.org/techniques/alttext/)|⬜|
 
@@ -189,9 +192,17 @@ A running lof of things I'm learning about ML and AI to build strong core softwa
 |[Pluralsight: Using The Chrome Developer Tools](https://www.pluralsight.com/courses/chrome-developer-tools)|⬜|
 
 ### Full Stack
+
 |Resource|Progress|
 |---|---|
 |[Coursera: The Full Stack, taught by Meta](https://www.coursera.org/learn/the-full-stack?specialization=meta-back-end-developer)|✅|
+|[The Complete Web Development Bootcamp](https://www.udemy.com/certificate/UC-90c2db14-f780-4873-a33c-0b190abea763/)|✅|
+
+### Mobile Development
+
+|Resource|Progress|
+|---|---|
+|[iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/certificate/UC-4e29e9d1-2c86-4db0-b6c0-553b26b16f83/)|✅|
 
 ## Specialized Topics
 <hr>
@@ -200,6 +211,10 @@ A running lof of things I'm learning about ML and AI to build strong core softwa
 
 |Resource|Progress|
 |---|---|
+|Stanford: Machine Learning Specialization|1/3|
+|Stanford: Supervised Machine Learning: Regression and Classification|✅|
+|Stanford: Advanced Learning Algorithms|⬜|
+|Stanford: Unsupervised Learning, Recommenders, Reinforcement Learning|⬜|
 |[Article: An overview of gradient descent optimization algorithms](https://www.ruder.io/optimizing-gradient-descent)|⬜|
 |[Book: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)|⬜|
 |[Book: A Machine Learning Primer](https://www.confetti.ai/assets/ml-primer/ml_primer.pdf)|⬜|
@@ -489,6 +504,14 @@ A running lof of things I'm learning about ML and AI to build strong core softwa
 |[Codecademy: Learn ReactJS: Part I](https://www.codecademy.com/learn/react-101)|⬜|
 |[Codecademy: Learn ReactJS: Part II](https://www.codecademy.com/learn/react-102)|⬜|
 |[NexxtJS: React Foundations](https://nextjs.org/learn/react-foundations)|⬜|
+
+
+### Java
+
+|Resource|Progress|
+|---|---|
+|[Codecademy: Learn Java](https://www.codecademy.com/profiles/Ramazan_119)|✅|
+|[Udemy: The Complete Java Course](https://www.udemy.com/certificate/UC-c0ec14db-b6ce-475c-8be1-311bef3522bc/)|✅|
 
 ### Spacy
 
