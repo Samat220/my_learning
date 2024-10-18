@@ -41,7 +41,18 @@ A running lof of things I'm learning about ML and AI to build strong core softwa
 |[Neetcode: Algorithms and Data Structures for Beginners](https://neetcode.io/courses/dsa-for-beginners/0)|⬜|
 |[Udacity: Intro to Data Structures and Algorithms](https://www.udacity.com/course/technical-interview--ud513)|⬜|
 
+### Data Analytics
 
+|Resource|Progress|
+|---|---|
+|[Google Data Analytics Professional Certificate](https://www.credly.com/badges/7a70fd41-305c-4eaf-a473-a61c35380556/linked_in_profile)|✅| 
+|[Google Data Analytics Course: Foundations: Data, Data, Everywhere](https://www.coursera.org/learn/foundations-data?specialization=google-data-analytics)|✅| 
+|[Google Data Analytics Course: Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/learn/ask-questions-make-decisions?specialization=google-data-analytics)|✅| 
+|[Google Data Analytics Course: Prepare Data for Exploration](https://www.coursera.org/learn/data-preparation?specialization=google-data-analytics)|✅| 
+|[Google Data Analytics Course: Process Data from Dirty to Clean](https://www.coursera.org/learn/process-data?specialization=google-data-analytics)|✅| 
+|[Google Data Analytics Course: Analyze Data to Answer Questions](https://www.coursera.org/learn/analyze-data?specialization=google-data-analytics)|✅| 
+|[Google Data Analytics Course: Share Data Through the Art of Visualization](https://www.coursera.org/learn/visualize-data?specialization=google-data-analytics)|✅| 
+|[Google Data Analytics Course: Data Analysis with R Programming](https://www.coursera.org/learn/data-analysis-r?specialization=google-data-analytics)|✅|
 
 ### Linux & Command Line
 
