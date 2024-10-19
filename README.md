@@ -1,5 +1,5 @@
 # My learning
-A running lof of things I'm learning about ML and AI to build strong core software engineering skills while also expanding my knowledge of [adjacent technologies](http://www.effectiveengineer.com/blog/master-adjacent-disciplines) a little bit [everyday](https://jamesclear.com/continuous-improvement).
+A running log of things I'm learning about ML and AI to build strong core software engineering skills while also expanding my knowledge of [adjacent technologies](http://www.effectiveengineer.com/blog/master-adjacent-disciplines) a little bit [everyday](https://jamesclear.com/continuous-improvement).
 
 **Updated**: Once a month | **Current** **Focus**: Machine Learning Fundamentals
 
@@ -211,10 +211,10 @@ A running lof of things I'm learning about ML and AI to build strong core softwa
 
 |Resource|Progress|
 |---|---|
-|Stanford: Machine Learning Specialization|1/3|
-|Stanford: Supervised Machine Learning: Regression and Classification|✅|
-|Stanford: Advanced Learning Algorithms|⬜|
-|Stanford: Unsupervised Learning, Recommenders, Reinforcement Learning|⬜|
+|DeepLearning.AI: Machine Learning Specialization|1/3|
+|[DeepLearning.AI: Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/verify/9UZOFFIOO5KL)|✅|
+|DeepLearning.AI: Advanced Learning Algorithms|⬜|
+|DeepLearning.AI: Unsupervised Learning, Recommenders, Reinforcement Learning|⬜|
 |[Article: An overview of gradient descent optimization algorithms](https://www.ruder.io/optimizing-gradient-descent)|⬜|
 |[Book: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)|⬜|
 |[Book: A Machine Learning Primer](https://www.confetti.ai/assets/ml-primer/ml_primer.pdf)|⬜|
