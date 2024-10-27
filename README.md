@@ -280,6 +280,7 @@ A running log of things I'm learning about ML and AI to build strong core softwa
 
 |Resource|Progress|
 |---|---|
+|[Study: Understanding the Limitations of Mathematical Reasoning in Large Language Models](https://arxiv.org/pdf/2410.05229)|✅|
 |[Article: SolidGoldMagikarp (plus, prompt generation)](https://www.lesswrong.com/posts/aPeJE8bSo6rAFoLqg/solidgoldmagikarp-plus-prompt-generation)|⬜|
 |[DeepLearning.AI: Pretraining LLMs](https://www.deeplearning.ai/short-courses/pretraining-llms)|⬜|
 |[DeepLearning.AI: How Diffusion Models Work](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/)|⬜|
