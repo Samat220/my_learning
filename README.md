@@ -217,6 +217,7 @@ A running log of things I'm learning about ML and AI to build strong core softwa
 |DeepLearning.AI: Unsupervised Learning, Recommenders, Reinforcement Learning|⬜|
 |[Article: An overview of gradient descent optimization algorithms](https://www.ruder.io/optimizing-gradient-descent)|⬜|
 |[Book: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)|⬜|
+|[Book: Designing Machine Learning Systems](https://github.com/chiphuyen/dmls-book?tab=readme-ov-file)|⬜️|
 |[Book: A Machine Learning Primer](https://www.confetti.ai/assets/ml-primer/ml_primer.pdf)|⬜|
 |[Book: Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network/dp/1530826608)|⬜|
 |[Book: Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning)|⬜|
